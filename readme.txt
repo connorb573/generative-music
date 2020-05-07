@@ -9,3 +9,5 @@ The reset button allows for a new grid of artwork to be generated, this also occ
 This application was initially concieved for my 3rd Year University Project. 
 
 The samples in this program were obtained from freesound.org.
+
+This project was my first experience with processing, and I learnt a lot about applying the draw function to create generative loops. I also got to construct new data structures for storing melodies and grids of squares, and create algorithms to generatively repeat melodies, draw the art onscreen and populate squares with colour.
